@@ -1,0 +1,50 @@
+<html>
+
+<head>
+    <title>
+        My Profile
+    </title>
+    <style>
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSspOiaD9XsNJGoVdJS5TYqaF4-1UuXrr7Y-w&usqp=CAU" alt="myImg">
+        <h2 style="font-weight: bold; color: red;">Cheganti Saiteja</h2>
+        <p>Studying at <a style="text-decoration: none;" href="http://jntuhceh.ac.in/viewdept/5">JNTUH-CSE</a></p>
+        <p></p>
+    </center>
+    <h2>My BIO</h2>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sunt, veritatis quae assumenda, quibusdam adipisci nemo
+        laudantium reprehenderit, nesciunt magni eum impedit eos. Suscipit delectus maxime fuga beatae dolorem,
+        repellendus aliquid tempore consequuntur dolores. Voluptas, quis sapiente dignissimos accusantium pariatur
+        eligendi nesciunt necessitatibus vel maiores nobis asperiores iusto est ducimus mollitia et vero numquam
+        temporibus tenetur sunt veritatis laborum possimus! Nulla harum quam obcaecati explicabo enim eaque tempora
+        repellendus voluptatem praesentium aliquam possimus, pariatur tempore incidunt amet dolor! Accusamus eveniet
+        amet itaque aliquid quae dolores, perspiciatis enim sed quas laboriosam? Enim quaerat ut asperiores maxime,
+        necessitatibus quae sunt omnis sed minima? ipsum dolor sit amet consectetur adipisicing elit. Cum minima
+        suscipit totam beatae quas! Aut cum fugit
+        voluptas. Nesciunt ducimus aspernatur commodi facere quas, temporibus eum, blanditiis voluptate magni cum
+        maxime? Tenetur, aliquid dolorum. Vel quasi fugiat nobis nostrum facere vitae. Rem temporibus sequi inventore
+        repellat corporis, voluptatibus dolorem eligendi.
+    </p>
+    <h2>My Education Details</h2>
+    <p>Parsuing Btech 2nd Year in Computer Science and Engineering at JNTUH-CEH</p>
+    <p>Diploma in Specialized Computer Programming(2017-2021)</p>
+    <p>SSC(2016-2017)</p>
+    <h2>My Skills</h2>
+    <p>C</p>
+    <p>C++</p>
+    <p>Java</p>
+    <p>JavaScript</p>
+    <h2>My Hobbies</h2>
+    <p>Compitative Programming</p>
+    <p>Reading Books</p>
+    <p>Playing Cricket</p>
+</body>
+
+</html>
